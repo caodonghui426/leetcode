@@ -1,4 +1,4 @@
-package org.Q151;
+package Q151;
 
 public class Main {
     public static void main(String[] args) {

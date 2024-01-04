@@ -1,4 +1,4 @@
-package org.Q76;
+package Q76;
 
 import java.util.HashMap;
 import java.util.Map;
