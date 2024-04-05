@@ -3,7 +3,7 @@ package Q160;
 public class Main {
 }
 
-public class Solution {
+class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
         int lenA = 0, lenB = 0;
         for(ListNode p1 = headA; p1 != null; p1 = p1.next) {
